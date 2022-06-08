@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\bombi\javafx_data\.metadata\.plugins\org.eclipse.jdt.core
+1821989754.index
