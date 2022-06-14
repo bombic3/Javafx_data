@@ -23,4 +23,5 @@
     <fullyQualifiedTypeName name="javafx.fxml.Initializable"/>
     <fullyQualifiedTypeName name="javafx.scene.control.TextArea"/>
     <fullyQualifiedTypeName name="javafx.beans.binding.Bindings"/>
+    <fullyQualifiedTypeName name="javafx.fxml.FXMLLoader"/>
 </qualifiedTypeNameHistroy>
