@@ -15,7 +15,7 @@ import javafx.stage.Modality;
 import javafx.stage.Stage;
 import model.Component;
 import model.ComponentDAO;
-
+// 유기견
 
 public class Main extends Application {
 	
